@@ -15,7 +15,7 @@ SVM
 Decision Tree classifier
 You can just run the file Main.py with the given dataset to find out which sampling is best for the following models PS: Oversampling using SMOTE was applied prior to applying these techniques.
 
-Results
+Results-
 The results of the project showed that the best sampling technique for a particular machine 
 learning model depends on the characteristics of the data set. For example, random sampling 
 was found to be the best sampling technique for the logistic regression model, while 
